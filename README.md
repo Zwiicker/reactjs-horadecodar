@@ -24,7 +24,7 @@
 <h2>List of projects</h2>
 <br>
 <ul>
-
+    <li><a href="https://01-newsletter-9ck970s4c-zwiicker.vercel.app/">01 - Newsletter</a></li>
 </ul>
 <br>
 
