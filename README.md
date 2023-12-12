@@ -7,7 +7,7 @@
   
 <br /><br />
 
-:snowflake:		Repository for ReactJs course projects, from "Hora de Codar" on Udemy and YT. :snowflake:		<br /><br />
+Repository for HTML, CSS, JavaScript and ReactJs course projects, from "Hora de Codar" on Udemy and YT. <br /><br />
 
 </div> 
 
@@ -24,7 +24,8 @@
 <h2>List of projects</h2>
 <br>
 <ul>
-    <li><a href="https://01-newsletter-9ck970s4c-zwiicker.vercel.app/">01 - Newsletter</a></li>
+    <li><a href="https://01-newsletter-zwiicker.vercel.app/">01 - Newsletter</a></li>
+    <li><a href="https://02-todolist-zwiicker.vercel.app/">02 - To-do list</a></li>
 </ul>
 <br>
 
