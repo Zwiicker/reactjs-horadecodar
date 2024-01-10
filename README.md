@@ -25,7 +25,9 @@ Repository for HTML, CSS, JavaScript and ReactJs course projects, from "Hora de 
 <br>
 <ul>
     <li><a href="https://01-newsletter-zwiicker.vercel.app/">01 - Newsletter</a></li>
-    <li><a href="https://02-todolist-zwiicker.vercel.app/">02 - To-do list</a></li>
+    <li><a href="https://02-todolist-zwiicker.vercel.app/">02 - To-do list</a></li>    
+    <li><a href="https://03-quiz-zwiicker.vercel.app/">03 - Quiz</a></li>
+
 </ul>
 <br>
 
