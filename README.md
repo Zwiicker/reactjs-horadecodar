@@ -1,11 +1,3 @@
-<br /><br />
-
-<div align="center">
-  <kbd>
-    <img align="" width="350px" src="/logo.png">
-  </kbd>
-  
-<br /><br />
 
 Repository for HTML, CSS, JavaScript and ReactJs course projects, from "Hora de Codar" on Udemy and YT. <br /><br />
 
